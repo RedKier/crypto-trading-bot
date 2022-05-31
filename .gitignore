@@ -1,0 +1,4 @@
+.idea
+info.log
+__pycache__
+database.db
